@@ -1,5 +1,5 @@
 ### About me
-Hi there, I have 20 years and I'm currently studying computer science at Estacio university
+Hi there, I have 21 years and I'm currently studying computer science at Estacio university
 - 📖 I’m currently learning TypeScript 
 
 <div align="center">
