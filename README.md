@@ -1,6 +1,6 @@
 ### About me
-Hi there, I have 21 years and I'm currently studying computer science at Estacio university
-- 📖 I’m currently learning TypeScript 
+Hi there, I have 20 years and I'm currently studying computer science at Estacio university
+- 📖 I’m currently learning Python
 
 <div align="center">
   <a href="https://github.com/marcelo-redua">
