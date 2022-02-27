@@ -21,7 +21,13 @@ Hi there, I have 20 years and I'm currently studying computer science at Estacio
  
 <div> 
 
-  <a href="https://www.linkedin.com/in/marcelo-r%C3%A9dua/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/marcelo-r%C3%A9dua/" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" width="4%" />
+</a>
+  
+<a href="https://api.whatsapp.com/send/?phone=5521981562640" >
+      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/whatsapp.svg" width="4%" />
+</a>
  
   ![Snake animation](https://github.com/marcelo-redua/marcelo-redua/blob/output/github-contribution-grid-snake.svg)
  
